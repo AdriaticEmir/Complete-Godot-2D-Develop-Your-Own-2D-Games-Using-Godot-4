@@ -4,15 +4,15 @@
 
 My progress in the [**GameDev.tv Team**](https://www.udemy.com/course/complete-godot-4-game-developer-2d-online-course/?couponCode=ST15MT31224) course.
 
-## Introduction & Setup
+## Introduction & Setup :heavy_check_mark:
 
-- [ ] Welcome To The Course
-- [ ] Downloading Godot
-- [ ] Create A Project
-- [ ] Exploring Godot's Interface
-- [ ] More Interface Exploration
-- [ ] Community & Support
-- [ ] Accessing Our Projects
+- [x] Welcome To The Course
+- [x] Downloading Godot
+- [x] Create A Project
+- [x] Exploring Godot's Interface
+- [x] More Interface Exploration
+- [x] Community & Support
+- [x] Accessing Our Projects
 
 ## Speedy Saucer
 
